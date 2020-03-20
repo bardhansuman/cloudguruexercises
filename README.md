@@ -1,1 +1,2 @@
-# cloudguruexercises
+# Automating AWS with Python
+cloudguruexercises Trail
